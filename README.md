@@ -1,1 +1,1 @@
-# JS30 Day 26 - Stripe Follow-Along Dropdown
+# JS30 Day 26 - Stripe Follow-Along Nav
